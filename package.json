@@ -1,0 +1,14 @@
+{
+  "name": "dropdown-menu_op",
+  "version": "1.8.1",
+  "description": "This is a dropdown menu component in react for a openclassroom",
+  "main": "Dropdown_menu.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "miyuki62",
+  "license": "ISC"
+}
